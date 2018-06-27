@@ -1,0 +1,72 @@
+body {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 33px;
+    background-image: url(./spacex-81773-unsplash.jpg);
+    background-size: cover;
+}
+.controls {
+    text-align: center;
+}
+.name {
+}
+.link {
+    position: relative;
+    float: right;
+    right: 80%;
+}
+  ​
+  .wrapper {
+      text-align: center;
+  }
+  button {
+      text-align: center;
+  }
+  .submit {
+     padding: 15px 30px 15px 30px;
+     border: 7px solid whitesmoke;
+     border-radius: 10px;
+     background: rgba(255, 255, 255,0);
+     font-size: 40px;
+     color: white;
+     text-align: center;
+  
+  }
+  .submit2 {
+    padding: 15px 30px 15px 30px;
+    border: 7px solid whitesmoke;
+    border-radius: 10px;
+    background: rgba(255, 255, 255,0);
+    font-size: 40px;
+    color: white;
+    text-align: center;
+ 
+ }
+  a {
+      color: white;
+     /* text-decoration: none; */
+      font-size: 20px;
+  }
+
+  p{
+      font-size: 20px;
+      color: whitesmoke;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  ​h2 {
+      font-size: 20px;
+      color: whitesmoke;
+  }
+
+  .clearfix {
+    clear: both;
+  }
+  ​
+  span {
+    background-color: #ccc;
+    padding: 5px;
+    margin: 5px;
+  }
